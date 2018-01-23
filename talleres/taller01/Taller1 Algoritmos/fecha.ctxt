@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=a\u00F1o\ mes\ dia
+comment0.target=fecha(int,\ int,\ int)
+comment1.params=
+comment1.target=int\ dia()
+comment2.params=
+comment2.target=int\ mes()
+comment3.params=
+comment3.target=int\ a\u00F1o()
+comment4.params=f
+comment4.target=java.lang.String\ ToString(fecha)
+comment5.params=fecha1\ fecha2
+comment5.target=boolean\ Comparariguales(fecha,\ fecha)
+comment6.params=fecha1\ fecha2
+comment6.target=void\ Comparar(fecha,\ fecha)
+numComments=7
