@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=cuadradocolisiones
+comment0.text=\r\n\ metodo\ para\ hacer\ el\ panel\ y\ detectar\ las\ colisiones\ en\ lcada\ celda\r\n
+comment1.params=min\ max\ cell_size
+comment1.target=cuadradocolisiones(int,\ int,\ int)
+comment1.text=\r\n\ metodo\ donde\ cada\ celda\ se\ crea\ con\ determinado\ tama\u00F1o\ y\ nuemro\ de\ celdas\r\n
+comment2.params=o
+comment2.target=void\ addObject(posicionpintar)
+comment2.text=\r\n\ A\u00F1ade\ una\ abeja\ al\ mundo\r\n
+comment3.params=cell
+comment3.target=java.util.List\ getObjectsInCell(int)
+comment3.text=\r\n\ Obtiene\ las\ abejas\ de\ una\ celda\r\n
+comment4.params=x\ y
+comment4.target=int\ getCell(float,\ float)
+comment4.text=\r\n\ Dadas\ unas\ coordenadas\ obtiene\ la\ celda\ a\ la\ que\ pertenece\r\n
+comment5.params=g
+comment5.target=void\ paint(java.awt.Graphics)
+comment5.text=\r\n\ pinta\ la\ ventana\r\n
+comment6.params=
+comment6.target=void\ run()
+comment6.text=\r\n\ deteccion\ de\ colisiones\ y\ pinta\ las\ colisones\ y\ toma\ tiempo\ y\ memoria\r\n
+numComments=7

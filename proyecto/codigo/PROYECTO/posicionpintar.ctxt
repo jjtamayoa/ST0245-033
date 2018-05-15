@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=posicionpintar
+comment0.text=\r\n\ clase\ para\ crear\ la\ ventana\ y\ la\ posicion\r\n
+comment1.params=world\ radius\ x\ y
+comment1.target=posicionpintar(cuadradocolisiones,\ float,\ float,\ float)
+comment1.text=\r\n\ metodo\ para\ crear\ la\ ventana\r\n
+comment2.params=
+comment2.target=int\ getCell()
+comment2.text=\r\n\ Devuelve\ la\ celda\ donde\ esta\ el\ objeto\r\n
+comment3.params=
+comment3.target=java.util.Set\ getCells()
+comment3.text=\r\n\ Devuelve\ los\ indices\ de\ las\ celdas\ que\ ocupa\ el\ objeto\r\n
+comment4.params=
+comment4.target=java.util.List\ getNearObjects()
+comment4.text=\r\n\ Obtiene\ los\ objetos\ cercanos\ en\ todas\ las\ celdas\ que\ ocupa\r\n
+comment5.params=g
+comment5.target=void\ draw(java.awt.Graphics)
+comment5.text=\r\n\ Dibujar\ el\ circulo\ que\ representa\ la\ abeja\r\n
+numComments=6

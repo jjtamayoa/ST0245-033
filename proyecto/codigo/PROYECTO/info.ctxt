@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=info
+comment0.text=\r\nclase\ que\ lee\ y\ agrega\ las\ abejas\ a\ el\ panel\ del\ hash\ espacial\r\n
+comment1.params=min\ max\ cell_size\ objects\ radius
+comment1.target=info(int,\ int,\ int,\ int,\ float)
+comment1.text=\r\n\ \r\n\ metodo\ que\ lee\ las\ abejas\ y\ las\ agrega\ al\ panel\r\n\ metodo\ define\ el\ tama\u00F1o\ maximo\ de\ la\ ventana\ y\ el\ numero\ de\ celdas\r\n\ y\ objetos\ y\ el\ radio\ de\ las\ abejas\ que\ se\ dibujan\r\n
+numComments=2
